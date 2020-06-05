@@ -1,0 +1,32 @@
+﻿  dynamicBlock.cpp
+  dynamicCircle.cpp
+  game.cpp
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\src\game.cpp(261): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\src\game.cpp(265): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\src\game.cpp(269): warning C4305: 'argument': truncation from 'double' to 'T'
+          with
+          [
+              T=float
+          ]
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\src\game.cpp(487): warning C4305: '-=': truncation from 'double' to 'float'
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\src\game.cpp(492): warning C4305: '+=': truncation from 'double' to 'float'
+  main.cpp
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(139): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(140): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(141): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\steft\onedrive\documents\year 2 (2)\advanced oo\student pack\lab code\cw2\box2draysandjoints\include\game.h(142): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  paddle.cpp
+  Generating Code...
+  Box2DRaysAndJoints.vcxproj -> C:\Users\steft\OneDrive\Documents\Year 2 (2)\Advanced OO\Student Pack\lab code\CW2\Box2DRaysAndJoints\..\bin\Box2DRaysAndJoints.exe
